@@ -1,9 +1,33 @@
-# React TypeScript Starter Pack
+## Todo App
 
-To use this template click `Use this template`
+## [Link to DEMO](https://kseniia-chepur.github.io/todo-app/)
 
-### Available Scripts
+### Features:
 
-`Deploy` - available to deploy your application to gh-pages
+- Create (add) a new ToDo to the ToDo List 
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+- See all ToDos that were added to the Todo List
+
+- Filter ToDos by status (all/active/completed)
+
+- Toggle ToDos status
+
+- See number of active ToDos
+
+- Delete completed ToDos or any selected ToDo from the list of ToDos
+
+
+
+### Used technologies
+
+React.js - TypeScript - Rest API - SASS - Bulma
+
+### Run locally:
+- Clone the project
+
+- Install dependencies: npm install
+
+- Start dev server: npm start
+
+- Navigate to `http://localhost:3000/`
+
