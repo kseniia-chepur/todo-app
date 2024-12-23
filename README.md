@@ -8,6 +8,8 @@
 
 - See all ToDos that were added to the Todo List
 
+- Edit selected ToDo from the Todo List
+
 - Filter ToDos by status (all/active/completed)
 
 - Toggle ToDos status
